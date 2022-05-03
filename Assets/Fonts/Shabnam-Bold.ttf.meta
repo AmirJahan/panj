@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: db2278527fd2148bc9c5b8016a0e3e24
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Shabnam
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 78bf9b1fbc6eb4b8cbada03a2a8ea803, type: 3}
+  - {fileID: 12800000, guid: e5cb5341676d04455958b7ee7537c176, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
